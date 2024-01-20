@@ -333,8 +333,10 @@ $data = mysqli_fetch_assoc($result);
           </div>
         </div>
       </div>
-
     </div>
+    <center>
+      <a href="download.php?file=files/Shivam_Saxena_Resume.pdf" class="resume-button">Download PDF</a>
+    </center>
   </section><!-- End Resume Section -->
 
   <!-- ======= Services Section ======= -->
