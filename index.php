@@ -270,13 +270,56 @@ $data = mysqli_fetch_assoc($result);
 
       <div class="row">
         <div class="col-lg-6">
-          <h3 class="resume-title">Summary</h3>
+          <h3 class="resume-title">SUMMARY</h3>
           <div class="resume-item pb-0">
             <h4>Career Objective</h4>
             <p><em>Highly motivated and skilled Fresher Computer Science with a passion for developing innovative software solutions. Proficient in various programming languages including C++, Python, and Java, with experience in developing web applications, designing databases, and debugging software. Collaborative team player with a proven track record of delivering high-quality work and achieving exceptional results.</em></p>
           </div>
-
-          <h3 class="resume-title">Education</h3>
+          <h3 class="resume-title">PROJECTS</h3>
+          <div class="resume-item">
+            <h4>Task Management System</h4>
+            <p><em>Web Technology</em></p>
+            <h5>01/2021-06/2021</h5>
+            <p><em>Noida, Uttar Pradesh, IN </em></p>
+            <p>
+            <ul>
+              <li>Developed a Task Management System in PHP, utilizing HTML, CSS, JavaScript, Bootstrap, and MySQL Database for back-end
+                functionality.</li>
+              <li>This Task Management System Project in PHP is a simple project that can help a certain company manage its project task.</li>
+              <li><a href="https://shivamsaxenataskmanagementsystem.000webhostapp.com/">Live</a></li>
+            </ul>
+            </p>
+          </div>
+          <div class="resume-item">
+            <h4>Farming Portal</h4>
+            <p><em>Web Technology</em></p>
+            <h5>06/2021-05/2022</h5>
+            <p><em>Noida, Uttar Pradesh, IN </em></p>
+            <p>
+            <ul>
+              <li>The project aims to assist farmers by providing necessary awareness about farming techniques and helping them predict the
+                most suitable crop for their area.</li>
+              <li>An internet forum or message board allows farmers to engage in conversations through posted messages.</li>
+              <li><a href="https://shivamsaxenasafekids.000webhostapp.com/">Live</a></li>
+            </ul>
+            </p>
+          </div>
+          <div class="resume-item">
+            <h4>SafeKids Donation</h4>
+            <p><em>Web Technology</em></p>
+            <h5>06/2023-12/2023</h5>
+            <p><em>Noida, Uttar Pradesh, IN </em></p>
+            <p>
+            <ul>
+              <li>Developed SafeKids website utilizing PHP, HTML, CSS, JavaScript, Bootstrap, and MySQL Database for back-end functionality.
+                The project focuses on charity management, including fund donation, and incorporates various features.</li>
+              <li><a href="https://shivamsaxenasafekids.000webhostapp.com/">Live</a></li>
+            </ul>
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <h3 class="resume-title">EDUCATION</h3>
           <div class="resume-item">
             <h4>Bachelor of Technology</h4>
             <h5>2018 - 2022</h5>
@@ -292,51 +335,29 @@ $data = mysqli_fetch_assoc($result);
             <h5>2015</h5>
             <p><em>S.S Inter College, Moradabad, IN</em></p>
           </div>
-        </div>
-        <div class="col-lg-6">
-          <h3 class="resume-title">Project Details</h3>
+          <h3 class="resume-title">TRAINING / COURSES</h3>
           <div class="resume-item">
-            <h4>Task Management System</h4>
-            <p><em>Web Technology</em></p>
-            <h5>2021</h5>
-            <p><em>Noida, Uttar Pradesh, IN </em></p>
-            <p>
-            <ul>
-              <li>I contributed to the development of a web application aimed at task management for organizations. Responsibilities included implementing features such as task creation, editing, upload functionalities, and deletion processes. Engaged in various aspects of the project to facilitate seamless task handling within the system.</li>
-              <li><a href="https://github.com/shivamsaxena99/task_management_system">Github Link</a></li>
-            </ul>
-            </p>
+            <h4>Web Development</h4>
+            <h5>07/2021-09/2021</h5>
+            <p><em>Completed 8-week online Web Development training with proficiency in HTML & CSS, Bootstrap, SQL, and PHP modules.</em></p>
           </div>
           <div class="resume-item">
-            <h4>Farming Portal</h4>
-            <p><em>Web Technology</em></p>
-            <h5>2022</h5>
-            <p><em>Noida, Uttar Pradesh, IN </em></p>
-            <p>
-            <ul>
-              <li>Designed and developed a user-friendly platform enabling farmers to register, access agricultural insights, and optimize crop yields. Implemented features to deliver farming techniques and predictive analysis for optimal crop selection based on individual area conditions. Established an interactive Internet forum facilitating farmer discussions and information exchange through posted messages, fostering a collaborative farming community.</li>
-              <li><a href="https://github.com/shivamsaxena99/farming_portal">Github Link</a></li>
-            </ul>
-            </p>
+            <h4>Java</h4>
+            <p><em>Completed online training by the Spoken Tutorial Project, IIT Bombay.</em></p>
           </div>
+          <h3 class="resume-title">TECHNICAL SKILLS</h3>
           <div class="resume-item">
-            <h4>SafeKids Donation</h4>
-            <p><em>Web Technology</em></p>
-            <h5>2023</h5>
-            <p><em>Noida, Uttar Pradesh, IN </em></p>
-            <p>
-            <ul>
-              <li>Led the development of a Safe Kids Donation Website, focused on enabling online contributions to bolster child safety measures. Engineered a streamlined donation system, fostering awareness and bolstering support for initiatives dedicated to child protection.</li>
-              <li><a href="https://github.com/shivamsaxena99/safekids_donation">Github Link</a></li>
-            </ul>
-            </p>
+            <p><em>Programming Languages: C++ | Python | Java</em></p>
+            <p><em>Web Technologies: HTML | CSS | Bootstrap | SQL | PHP | Web Hosting</em></p>
+            <p><em>Fundamentals: Linear DSA</em></p>
+            <p><em>Development Tools: Eclipse Visual | Studio Code | PyCharm</em></p>
           </div>
         </div>
       </div>
+      <center>
+        <a href="download.php?file=files/Shivam_Saxena_Resume.pdf" class="resume-button">Download PDF</a>
+      </center>
     </div>
-    <center>
-      <a href="download.php?file=files/Shivam_Saxena_Resume.pdf" class="resume-button">Download PDF</a>
-    </center>
   </section><!-- End Resume Section -->
 
   <!-- ======= Services Section ======= -->
@@ -537,7 +558,7 @@ $data = mysqli_fetch_assoc($result);
             //Server settings
             //$mail->SMTPDebug = 2;                                     //Enable verbose debug output
             $mail->isSMTP();                                            //Send using SMTP
-            $mail->Host       = '';                                     //Set the SMTP server to send through
+            $mail->Host       = 'smtp.gmail.com';                       //Set the SMTP server to send through
             $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
             $mail->Username   = '';                                     //SMTP username
             $mail->Password   = '';                                     //SMTP password
@@ -559,8 +580,8 @@ $data = mysqli_fetch_assoc($result);
 
             //Content
             $mail->isHTML(true);                                    //Set email format to HTML
-            $mail->Subject = "Shivam Saxena Team";
-            $mail->Body    = "Hello " . $name . "<br>" . "Thank you for your query. I have received your details." . "<br>" . "<br>" . "Name :" . $name . "<br>" .  "E-mail :" . $email . "<br>" .  "Subject :" . $subject . "<br>" .  "Message :" . $message . "<br>" . "<br>" . "<br>" . "Regards" . "<br>" . "Shivam Saxena Team";
+            $mail->Subject = "Contact Form Submission Confirmation";
+            $mail->Body    = "Dear " . $name . "," . "<br>" . "Thank you for reaching out to us! This is an automated message to confirm that we have received your contact form submission. We appreciate your interest." . "<br>" . "<br>" . "Here are the details you provided:" . "<br>" . "Name :" . $name . "<br>" . "E-mail :" . $email . "<br>" . "Subject :" . $subject . "<br>" . "Message :" . $message . "<br>" . "<br>" . "We will review your message as soon as possible and one of our team members will get back to you shortly. In the meantime, if you have any additional information to share or need immediate assistance, please don't hesitate to contact us directly at 9012859192." . "<br>" . "<br>" . "Thank you for considering. We look forward to assisting you!" . "<br>" . "<br>" . "Best regards," . "<br>" . "Shivam Saxena";
             $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
             $mail->send();
