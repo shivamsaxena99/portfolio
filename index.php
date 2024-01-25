@@ -355,7 +355,7 @@ $data = mysqli_fetch_assoc($result);
         </div>
       </div>
       <center>
-        <a href="download.php?file=files/Shivam_Saxena_Resume.pdf" class="resume-button">Download PDF</a>
+        <a href="download.php?file=files/Shivam_Saxena_Resume.pdf" class="resume-button">Download Resume</a>
       </center>
     </div>
   </section><!-- End Resume Section -->
