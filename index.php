@@ -350,7 +350,7 @@ $data = mysqli_fetch_assoc($result);
             <p><em>Programming Languages: C++ | Python | Java</em></p>
             <p><em>Web Technologies: HTML | CSS | Bootstrap | SQL | PHP | Web Hosting</em></p>
             <p><em>Fundamentals: Linear DSA</em></p>
-            <p><em>Development Tools: Eclipse Visual | Studio Code | PyCharm</em></p>
+            <p><em>Development Tools: Eclipse | Visual Studio Code | PyCharm</em></p>
           </div>
         </div>
       </div>
